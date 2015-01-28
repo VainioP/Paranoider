@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Paranoider">
+    <output-path>$PROJECT_DIR$/out/artifacts/Paranoider</output-path>
+    <root id="archive" name="Paranoider.jar">
+      <element id="module-output" name="Paranoider" />
+    </root>
+  </artifact>
+</component>
